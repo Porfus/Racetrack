@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameEngineTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-01T18:47:46" hostname="Air-di-Luca.station" time="0.019">
+  <properties/>
+  <testcase name="testAggiornaGara()" classname="GameEngineTest" time="0.014"/>
+  <testcase name="getWinnerShouldBeNull()" classname="GameEngineTest" time="0.001"/>
+  <testcase name="testIniziaGara()" classname="GameEngineTest" time="0.0"/>
+  <testcase name="testControllaVittoria()" classname="GameEngineTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

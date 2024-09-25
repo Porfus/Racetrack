@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GiocatoreTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-09-01T18:47:46" hostname="Air-di-Luca.station" time="0.009">
+  <properties/>
+  <testcase name="giocatoreBotShouldThrowChar()" classname="GiocatoreTest" time="0.001"/>
+  <testcase name="giocatoreBotShouldThrowName()" classname="GiocatoreTest" time="0.001"/>
+  <testcase name="getPossibleMovesTest()" classname="GiocatoreTest" time="0.001"/>
+  <testcase name="equalTest()" classname="GiocatoreTest" time="0.0"/>
+  <testcase name="muoviTest()" classname="GiocatoreTest" time="0.001"/>
+  <testcase name="giocatoreBotShouldThrow()" classname="GiocatoreTest" time="0.0"/>
+  <testcase name="giocatoreBotShouldNotThrow()" classname="GiocatoreTest" time="0.0"/>
+  <testcase name="getPosizioneTest()" classname="GiocatoreTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
